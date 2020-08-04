@@ -1,5 +1,8 @@
 ### Hi there 👋
-Ik ben een leergierige en gedreven teamspeler. Mijn drijfveer is het oplossen van technische uitdagingen met mijn brede interesse en oog voor detail. Oplossingen vind ik snel door mijn creativiteit en groot analytisch vermogen. Ik geniet er van wanneer ik iets kan opleveren wat niet alleen nu, maar ook in de toekomst van grote waarde kan zijn. 
+#### NL
+Ik ben een leergierige en gedreven teamspeler. Mijn drijfveer is het oplossen van technische uitdagingen met mijn brede interesse en oog voor detail. Oplossingen vind ik snel door mijn creativiteit en groot analytisch vermogen. Ik geniet er van wanneer ik iets kan opleveren wat niet alleen nu, maar ook in de toekomst van grote waarde kan zijn.
+#### EN
+I'm an inquisitive and driven team player. My motivation is to solve technical challenges with my broad interest and eye for detail. I find solutions quickly through my creativity and great analytical ability. I enjoy when I can deliver something that can be of great value not only now, but also in the future.
 
 <!--
 **RobinBastiaan/robinbastiaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
