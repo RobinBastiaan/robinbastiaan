@@ -4,8 +4,8 @@ Ik ben een leergierige en gedreven teamspeler. Mijn drijfveer is het oplossen va
 #### EN
 I'm an inquisitive and driven team player. My motivation is to solve technical challenges with my broad interest and eye for detail. I find solutions quickly through my creativity and great analytical ability. I enjoy when I can deliver something that can be of great value not only now, but also in the future.
 
-[![Robin Bastiaan's github stats](https://github-readme-stats.vercel.app/api?username=robinbastiaan&hide=contribs&count_private=true&show_icons=true)](https://github.com/robinbastiaan/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robinbastiaan)](https://github.com/robinbastiaan/github-readme-stats)
+[![Robin Bastiaan's github stats](https://github-readme-stats.vercel.app/api?username=robinbastiaan&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robinbastiaan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **RobinBastiaan/robinbastiaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
