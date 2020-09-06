@@ -1,4 +1,7 @@
+<img align="right" alt="Robin Bastiaan on Codewars" title="Robin Bastiaan on Codewars" src="https://www.codewars.com/users/RobinBastiaan/badges/large">
+
 ### Hi there 👋
+
 #### NL
 Ik ben een leergierige en gedreven teamspeler. Mijn drijfveer is het oplossen van technische uitdagingen met mijn brede interesse en oog voor detail. Oplossingen vind ik snel door mijn creativiteit en groot analytisch vermogen. Ik geniet er van wanneer ik iets kan opleveren wat niet alleen nu, maar ook in de toekomst van grote waarde kan zijn.
 #### EN
